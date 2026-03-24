@@ -1,12 +1,12 @@
 body {
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #fff;
+font-family: "Roboto", sans-serif;
+color: #434455;
+background-color: #fff;
 }
 
 ul,
 ol {
-    list-style-type: none;
+list-style-type: none;
 }
 
 a {
@@ -24,19 +24,19 @@ color: #4d5ae5;
 }
 
 .header-logo .logo-part {
-    color: #2e2f42;
+color: #2e2f42;
 }
 
 .footer-logo .logo-part {
-    color: #f4f4fd;
+color: #f4f4fd;
 }
 
 .nav-link {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #2e2f42;
 }
 
 .contacts {
@@ -44,11 +44,11 @@ font-style: normal
 }
 
 .contacts-link {
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
+color: #434455
 }
 
 .page-title {
@@ -63,12 +63,12 @@ background-color: #2e2f42;
 }
 
 .page-button {
-    background-color: #4d5ae5;
-    color: #fff;
+background-color: #4d5ae5;
+color: #fff;
 }
 
 .hero-section {
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
 
 .name-strategy,
@@ -94,33 +94,33 @@ color: #434455;
 }
 
 .page-team {
-    background-color: #f4f4fd;
+background-color: #f4f4fd;
 }
 
 .page-team-name {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
 }
 
 .text-mark,
 .text-tom,
 .text-camila,
 .text-daniel {
-    font-weight: 500;
-        font-size: 20px;
-        line-height: 1.2;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #2e2f42;
+font-weight: 500;
+font-size: 20px;
+line-height: 1.2;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
 }
 
 .text-mark-product {
-    text-align: center;
-    color: #434455;
+text-align: center;
+color: #434455;
 }
 
 .page-mark,
@@ -131,27 +131,27 @@ background-color: #fff;
 }
 
 .text-tom-frontend {
-    text-align: center;
-    color: #434455;
+text-align: center;
+color: #434455;
 }
 
 .text-camila-marketing {
-    text-align: center;
-    color: #434455;
+text-align: center;
+color: #434455;
 }
 
 .text-daniel-ui {
-    text-align: center;
-    color: #434455;
+text-align: center;
+color: #434455;
 }
 
 .page-portfolio-name {
-    font-weight: 700;
-    font-size: 36px;
-    line-height: 1.11111;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
+font-weight: 700;
+font-size: 36px;
+line-height: 1.11111;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
 }
 
 .nav-link:hover,
@@ -162,15 +162,15 @@ color: #404bb4;
 }
 
 .page-footer {
-    background-color: #2e2f42;
+background-color: #2e2f42;
 }
 
 .logo .footer-logo {
 font-weight: 700;
-    font-size: 18px;
-    line-height: 1.16667;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
+font-size: 18px;
+line-height: 1.16667;
+letter-spacing: 0.03em;
+text-transform: uppercase;
 }
 
 .footer-text {
