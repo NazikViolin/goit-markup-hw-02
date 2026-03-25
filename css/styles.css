@@ -51,6 +51,10 @@ letter-spacing: 0.02em;
 color: #434455
 }
 
+.hero-section {
+    background-color: #2e2f42;
+}
+
 .page-title {
 font-family: "Roboto", sans-serif;
 font-weight: 700;
@@ -67,8 +71,17 @@ background-color: #4d5ae5;
 color: #fff;
 }
 
-.hero-section {
-background-color: #2e2f42;
+.page-button:hover {
+background-color: #4d5ae5;
+}
+
+.page-button:focus {
+background-color: #404bbf;
+}
+
+.page-button:focus,
+.page-button:hover {
+cursor: pointer;
 }
 
 .name-strategy,
@@ -119,6 +132,10 @@ color: #2e2f42;
 }
 
 .text-mark-product {
+font-weight: 400;
+font-size: 16px;
+line-height: 1.5;
+letter-spacing: 0.02em;
 text-align: center;
 color: #434455;
 }
@@ -158,7 +175,7 @@ color: #2e2f42;
 .nav-link:focus,
 .contacts-link:hover,
 .contacts-link:focus {
-color: #404bb4;
+color: #404bbf;
 }
 
 .page-footer {
