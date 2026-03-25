@@ -296,11 +296,9 @@ a {
 
 .page-footer {
     background-color: #2e2f42;
-    padding: 100px 0;
 }
 
 .footer-logo {
-    display: inline-block;
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -318,7 +316,6 @@ a {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-size: 16px;
-    max-width: 264px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #f4f4fd;
